@@ -1,0 +1,3 @@
+INFO: Application started
+DEBUG: Initializing components
+ERROR: Failed to load configuration
