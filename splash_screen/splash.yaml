@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#42a5f5"
+  color_dark: "#262626"
+  image: assets/images/icecream.jpeg
+  image_dark: assets/images/icecream.jpeg
+
+  android_12:
+    color: "#42a5f5"
+    color_dark: "#262626"
+    image: assets/images/icecream.jpeg
+    image_dark: assets/images/icecream.jpeg
+
+  web: false
